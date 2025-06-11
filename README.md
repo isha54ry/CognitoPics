@@ -63,6 +63,32 @@ offline-first solution for personal photo management.
    ```
 
 ---
+##  Future Enhancements
+
+The Smart Gallery project is designed with scalability and innovation in mind. Below are some planned improvements and advanced features to be integrated in future iterations:
+
+- **Mobile App UI Integration**  
+  Develop a dedicated mobile interface to bring Smart Gallery features to Android/iOS platforms for enhanced accessibility and convenience.
+
+- **Visual Redesign (Locker / Netflix-style UI)**  
+  Implement a more engaging and immersive user interface with thematic layouts like a secure photo locker or a Netflix-style image grid for better visual appeal.
+
+- **Backend Migration to Flask or FastAPI**  
+  Shift to a backend framework like Flask for more flexibility, allowing features like user authentication, file management APIs, and deeper customization.
+
+- **Login System & Multi-user Support**  
+  Add secure user authentication to personalize and isolate vaults, enabling safe usage across different users.
+
+- **Cloud Storage Option**  
+  Integrate encrypted cloud storage (like AWS S3 or Firebase) for secure remote backups, while maintaining privacy-first principles.
+
+- **Face Blur / Auto-Hide Filters**  
+  Introduce optional filters to auto-blur or conceal sensitive faces dynamically based on user-defined rules.
+
+- **Activity Logs and Notifications**  
+  Log important events like image uploads or unlock attempts and provide basic notifications or audit trails.
+
+
 
 ## Notes
 
