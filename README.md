@@ -7,7 +7,7 @@ a password-protected vault using AES encryption, ensuring sensitive images remai
 
 Built with Python and Streamlit, the app features a responsive and modern UI with organized tabs, 
 image previews, and smooth navigation. All operations, including encryption and decryption, are 
-handled locally, and no internet or cloud storage is involved — making Smart Gallery a secure, 
+handled locally, and no internet or cloud storage is involved — making CognitoPics a secure, 
 offline-first solution for personal photo management.
 
 
@@ -65,7 +65,7 @@ offline-first solution for personal photo management.
 ---
 ##  Future Enhancements
 
-The Smart Gallery project is designed with scalability and innovation in mind. Below are some planned improvements and advanced features to be integrated in future iterations:
+This project is designed with scalability and innovation in mind. Below are some planned improvements and advanced features to be integrated in future iterations:
 
 - **Mobile App UI Integration**  
   Develop a dedicated mobile interface to bring Smart Gallery features to Android/iOS platforms for enhanced accessibility and convenience.
