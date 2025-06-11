@@ -2,7 +2,15 @@
 ```markdown
 # Smart Gallery
 
-Smart Gallery is a privacy-focused AI-powered photo gallery that detects faces in images, allows users to hide selected photos, and stores them securely in a password-protected vault. It includes a clean and modern UI built with Streamlit.
+Smart Gallery is a privacy-focused, AI-powered photo gallery application that uses facial recognition 
+to detect and match faces within a user's photo collection. It allows users to hide selected images in 
+a password-protected vault using AES encryption, ensuring sensitive images remain private. 
+
+Built with Python and Streamlit, the app features a responsive and modern UI with organized tabs, 
+image previews, and smooth navigation. All operations, including encryption and decryption, are 
+handled locally, and no internet or cloud storage is involved — making Smart Gallery a secure, 
+offline-first solution for personal photo management.
+
 
 ---
 
@@ -25,26 +33,6 @@ Smart Gallery is a privacy-focused AI-powered photo gallery that detects faces i
   - cryptography
   - Pillow
   - streamlit
-
----
-
-## Folder Structure
-
-```
-
-SmartGallery/
-│
-├── app.py                  # Main Streamlit app
-├── face\_utils.py           # Face detection & recognition functions
-├── gallery\_utils.py        # Image grid, upload, and folder utilities
-├── encrypt\_utils.py        # AES encryption & decryption logic
-├── requirements.txt        # Required Python packages
-│
-├── dataset/                # Uploaded face images
-├── photos/                 # User's gallery photos
-├── locked\_photos/          # Encrypted hidden images
-
-````
 
 ---
 
