@@ -1,5 +1,4 @@
 
-```markdown
 # Smart Gallery
 
 Smart Gallery is a privacy-focused, AI-powered photo gallery application that uses facial recognition 
