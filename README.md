@@ -1,7 +1,7 @@
 
-# Smart Gallery
+# CognitoPics
 
-Smart Gallery is a privacy-focused, AI-powered photo gallery application that uses facial recognition 
+CognitoPics is a privacy-focused, AI-powered photo gallery application that uses facial recognition 
 to detect and match faces within a user's photo collection. It allows users to hide selected images in 
 a password-protected vault using AES encryption, ensuring sensitive images remain private. 
 
