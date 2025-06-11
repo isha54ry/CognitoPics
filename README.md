@@ -41,7 +41,7 @@ offline-first solution for personal photo management.
    ```bash
    git clone https://github.com/isha54ry/Smart-Gallery.git
    cd Smart-Gallery
-````
+   ````
 
 2. Create a virtual environment:
 
@@ -77,8 +77,6 @@ offline-first solution for personal photo management.
 This project is licensed under the MIT License.
 
 ```
-
----
 
 Let me know if you want a version that includes images, GIF demos, or deployment instructions!
 ```
