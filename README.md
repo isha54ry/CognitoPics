@@ -69,6 +69,11 @@ offline-first solution for personal photo management.
 * All encryption and image handling is done locally on the user's device.
 * No images are uploaded or stored externally.
 * Make sure the required folders (`dataset`, `photos`, `locked_photos`) exist before running.
+* Make sure to install all dependencies using:
+```bash
+   pip install -r requirements.txt
+   ```
+
 
 ---
 
